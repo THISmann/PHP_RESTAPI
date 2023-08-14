@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "vingth cinq",
+      "username": "thismann etienne le N*12",
+      "id": 25
+    },
+    {
+      "id": 23,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 22,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 17,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 16,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 15,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    },
+    {
+      "id": 14,
+      "name": "vingth huit",
+      "username": "thismann etienne le N*181"
+    }
+  ]
+}
